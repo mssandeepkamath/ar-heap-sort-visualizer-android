@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lytDrawer"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:id="@+id/txt_type_writter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginEnd="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:elevation="@dimen/_1sdp"
+            android:fontFamily="@font/roboto"
+            android:singleLine="false"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_22sdp"
+            android:textStyle="bold"
+
+            />
+
+        <com.google.android.material.circularreveal.cardview.CircularRevealCardView
+            android:id="@+id/cardView_1"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="wrap_content"
+            app:cardElevation="@dimen/_10sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_gravity="center"
+           app:cardBackgroundColor="#1C1C1C"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_100sdp"
+                    android:src="@drawable/animation"
+                    android:layout_margin="@dimen/_10sdp"
+                    android:layout_gravity="center"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Animation video on Heap Sort"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/_15sdp"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:layout_margin="@dimen/_5sdp"
+                    />
+
+            </LinearLayout>
+
+        </com.google.android.material.circularreveal.cardview.CircularRevealCardView>
+
+        <com.google.android.material.circularreveal.cardview.CircularRevealCardView
+            android:id="@+id/cardView_2"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="wrap_content"
+            app:cardElevation="@dimen/_10sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_gravity="center"
+            app:cardBackgroundColor="#1C1C1C"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_100sdp"
+                    android:src="@drawable/ar"
+                    android:layout_margin="@dimen/_10sdp"
+                    android:layout_gravity="center"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="AR View of Heap Data Structure"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/_15sdp"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:layout_margin="@dimen/_5sdp"
+                    />
+
+            </LinearLayout>
+
+        </com.google.android.material.circularreveal.cardview.CircularRevealCardView>
+
+        <com.google.android.material.circularreveal.cardview.CircularRevealCardView
+            android:id="@+id/cardView_3"
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="wrap_content"
+            app:cardElevation="@dimen/_10sdp"
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_gravity="center"
+            app:cardBackgroundColor="#1C1C1C"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_100sdp"
+                    android:layout_gravity="center"
+                    android:layout_margin="@dimen/_10sdp"
+                    android:src="@drawable/report" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/_5sdp"
+                    android:text="Report on Heap Sort and its Application"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_15sdp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </com.google.android.material.circularreveal.cardview.CircularRevealCardView>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+</ScrollView>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/drawable-anydpi/ic_scan.xml" value="0.1245" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/activity_drawer_header.xml" value="0.2" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/activity_product_details.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/activity_web.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/fragment_product.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/fragment_product_details.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/fragment_scan.xml" value="0.16075245831551946" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/fragment_website.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/layout/product_item.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/menu/drawer_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/menu/main_menu.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/AndroidStudioProjects/SceneformAr/app/src/main/res/menu/scan.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_animation_video.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_ar.xml" value="0.1526293287729799" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_drawer_header.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_get_started.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_main.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_pdfactivity.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_splash_screen.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/layout/activity_web.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/menu/drawer_navigation_menu.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/mssan/OneDrive/Desktop/SceneformAr/app/src/main/res/menu/main_menu.xml" value="0.16417272338606242" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
