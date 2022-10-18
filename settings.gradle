@@ -17,11 +17,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SceneformAr"
 include ':app'
-//
-//include ':sceneform'
-//project(':sceneform').projectDir = new File('sceneformsrc/sceneform')
-//
-//// this will add sceneformux folder into your project
-//
-//include ':sceneformux'
-//project(':sceneformux').projectDir = new File('sceneformux/ux')
+
