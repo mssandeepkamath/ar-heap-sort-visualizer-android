@@ -14,26 +14,7 @@ https://play.google.com/store/apps/details?id=com.sandeep.sceneformar&hl=en&gl=U
 ## Animation video link:
 https://youtu.be/N4a2mH3eKzg
 
-## Flow of operation:
-1. On launching the application, a splash screen appears which further displays a documentation
-from Scalar academy. The documentation covers all the theoretical and programming
-perspectives of the Heap and its basic operation. This helps users to grasp the concept better
-while having a look at animated video.
-2. On getting started, we provide the user three options,
-
-     1. Animated video, which opens a youtube player and users can make use of a variety
-        of features such as full screen, modifying speed, preventing ads and more.
-
-        
-     2. AR view,On clicking the AR view, it redirects to the camera where you
-        will be asked to find a horizontal plane. On clicking on the plane it renders a complete HeapSort video
-        in real time which can be rotated 360 degrees and hence provides a flexibilty for the user to learn in his/her own environment.
-
-            
-     3. Report, this will open a custom PDF viewer which contains the complete report of heap
-      sort.
-
-## Usage of technology:
+## Tech:
 
 1. Programming Language: Kotlin and Java.
 2. User Interface/Experience: XML
