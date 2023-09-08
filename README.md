@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.sandeep.sceneformar&hl=en&gl=U
 *********
 
 ![Untitled (2160 × 1080 px) (4)](https://user-images.githubusercontent.com/90695071/193133453-1a607a2d-78f0-481e-b511-b8c0862f8a6f.png)
-![Untitled (2160 × 1080 px) (5)](https://user-images.githubusercontent.com/90695071/193133465-8081cbb8-5b95-4ca5-9bee-fc455440929e.png)\
+![Untitled (2160 × 1080 px) (5)](https://user-images.githubusercontent.com/90695071/193133465-8081cbb8-5b95-4ca5-9bee-fc455440929e.png)
 
 ## Animation video link:
 https://youtu.be/N4a2mH3eKzg
